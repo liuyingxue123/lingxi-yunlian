@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="tests" thread-count="1">
+
+    <listeners>
+        <listener class-name="com.auto.utils.Listener"/>
+    </listeners>
+
+    <test name="core interface test" verbose="1" preserve-order="true">
+        <packages >
+            <package name="test.readInterface.*" />
+        </packages>
+    </test>
+
+</suite>

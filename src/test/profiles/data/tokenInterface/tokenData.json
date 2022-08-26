@@ -1,0 +1,9 @@
+[{"comments": "云链登录接口",
+    "request": {
+      "step1": {
+        "username": "18053850773",
+        "password":"2d276f544a7874282e2a496d6e07ed63",
+        "grant_type": "password",
+        "scope": "all",
+        "type": "account"}}}
+]
